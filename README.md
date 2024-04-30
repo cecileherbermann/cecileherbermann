@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an MSc student in Bioinformatics and BioComplexity, currently working on alternative splicing in scRNA-seq data. 
+I am an MSc student in Bioinformatics and BioComplexity.
 
 
 # 💻 Tech Stack:
